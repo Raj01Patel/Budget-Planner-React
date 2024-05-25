@@ -1,0 +1,18 @@
+.balance-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.total-balance {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.negative-balance {
+    color: red;
+}
+
+.alert {
+    color: red;
+    font-weight: bold;
+}
